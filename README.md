@@ -92,7 +92,7 @@ README.md
 
 ```
 
-git clone [https://github.com/your-username/quiz_master.git](https://github.com/your-username/quiz_master.git)
+git clone [https://github.com/PabloHackWell/Quiz-Master](https://github.com/PabloHackWell/Quiz-Master)
 cd quiz_master
 
 ```
