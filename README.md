@@ -1,4 +1,3 @@
-```markdown
 # Smart Quiz Game (Python GUI + FastAPI + Database)
 
 ## Project Overview
