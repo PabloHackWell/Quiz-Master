@@ -199,15 +199,13 @@ python app.py
 
 ---
 
-## Learning Outcomes
+## Conclusion
 
-This project demonstrates:
+The Smart Quiz Game project demonstrates the development of a complete Python-based application using a modular and scalable architecture. The system integrates a graphical user interface for user interaction, a FastAPI backend for handling quiz logic and communication, and a database for storing questions and user scores.
 
-- GUI application development using Python
-- REST API development using FastAPI
-- Database integration using SQLAlchemy
-- Software architecture design
-- Team collaboration using GitHub
+Through this project, the team implemented a structured software workflow including backend API development, database design, GUI implementation, and system integration. The project also highlights collaborative development practices using GitHub for version control and team coordination.
+
+Overall, the project showcases how Python can be used to build a full application that combines interface design, server-side processing, and persistent data management in a cohesive system.
 
 ---
 
