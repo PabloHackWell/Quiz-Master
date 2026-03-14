@@ -169,11 +169,11 @@ python app.py
 
 | Member | Role | Responsibility |
 |------|------|------|
-| Member 1 | GUI Developer | Design quiz interface |
-| Member 2 | Backend Developer | Create FastAPI endpoints |
-| Member 3 | Database Engineer | Design database models |
-| Member 4 | Quiz Logic Developer | Implement scoring & quiz flow |
-| Member 5 | Integration & Testing | Connect GUI with backend |
+| Mitali | GUI Developer | Design quiz interface |
+| Hina | Backend Developer | Create FastAPI endpoints |
+| Jiya | Database Engineer | Design database models |
+| Jatin | Quiz Logic Developer | Implement scoring & quiz flow |
+| Anuj Kumar | Integration & Testing | Connect GUI with backend |
 
 ---
 
@@ -211,7 +211,3 @@ This project demonstrates:
 
 ---
 
-## License
-
-This project is for educational purposes.
-```
